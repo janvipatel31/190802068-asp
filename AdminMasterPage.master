@@ -285,6 +285,16 @@
                         <span>Manage Service </span>
                     </a>
                 </li>
+                 <li class="sub-menu">
+                    <a href="javascript:;">
+                        <i class="fa fa-th"></i>
+                        <span>Manage Products</span>
+                    </a>
+                    <ul class="sub">
+                        <li><a href="ManageCategory.aspx">Manage Category</a></li>
+                        <li><a href="">Manage Products</a></li>
+                    </ul>
+                </li>
                 <li>
                     <a href="fontawesome.html">
                         <i class="fa fa-bullhorn"></i>
